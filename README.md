@@ -1,4 +1,4 @@
-# Natural-Disaster-Prediction using Machine Learning 
+# Natural-Disaster-Prediction-using-Machine-Learning 
 
 ## Overview
 
